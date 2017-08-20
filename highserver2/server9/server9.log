@@ -1,0 +1,79 @@
+Thank you for using ZSL_LIB_LOG.
+ZSL_LIB_LOG inited!
+
+
+[2011-07-11 23:03:12 -- server9.c(162):create_accept_fd]:accept a connection 6
+[2011-07-11 23:03:12 -- server9.c(279):read_hook_v2]:read from socket 6 data:1:1.txt
+
+[2011-07-11 23:03:12 -- server9.c(283):read_hook_v2]:recv_num=9,&in_buf[recv_num-2]=
+
+[2011-07-11 23:03:13 -- server9.c(279):read_hook_v2]:read from socket 6 data:
+
+[2011-07-11 23:03:13 -- server9.c(283):read_hook_v2]:recv_num=2,&in_buf[recv_num-2]=
+
+[2011-07-11 23:03:13 -- server9.c(286):read_hook_v2]:if anyone here????
+[2011-07-11 23:03:13 -- server9.c(195):parse_request]:before split the ev->request is:1:1.txt
+
+[2011-07-11 23:03:13 -- server9.c(202):parse_request]:ev->handle_method is:1
+[2011-07-11 23:03:13 -- server9.c(205):parse_request]:ev->request is:1.txt
+
+[2011-07-11 23:03:13 -- server9.c(296):write_hook_v1]:try to open file:1.txt
+
+[2011-07-11 23:03:13 -- server9.c(299):write_hook_v1]:open file failed
+Thank you for using ZSL_LIB_LOG.
+ZSL_LIB_LOG inited!
+
+
+Thank you for using ZSL_LIB_LOG.
+ZSL_LIB_LOG inited!
+
+
+[2011-07-11 23:13:52 -- server9.c(162):create_accept_fd]:accept a connection 6
+[2011-07-11 23:13:52 -- server9.c(279):read_hook_v2]:read from socket 6 data:1:1.txt
+
+[2011-07-11 23:13:52 -- server9.c(283):read_hook_v2]:recv_num=9,&in_buf[recv_num-2]=
+
+[2011-07-11 23:14:21 -- server9.c(279):read_hook_v2]:read from socket 6 data:
+
+[2011-07-11 23:14:21 -- server9.c(283):read_hook_v2]:recv_num=2,&in_buf[recv_num-2]=
+
+[2011-07-11 23:14:21 -- server9.c(286):read_hook_v2]:if anyone here????
+[2011-07-11 23:14:21 -- server9.c(195):parse_request]:before split the ev->request is:1:1.txt
+
+[2011-07-11 23:14:21 -- server9.c(202):parse_request]:ev->handle_method is:1
+[2011-07-11 23:14:21 -- server9.c(205):parse_request]:ev->request is:1.txt
+
+[2011-07-11 23:14:21 -- server9.c(297):write_hook_v1]:try to open file:1.txt
+
+[2011-07-11 23:14:21 -- server9.c(300):write_hook_v1]:open file failed
+[2011-07-11 23:15:40 -- server9.c(297):write_hook_v1]:try to open file:1.txt
+
+[2011-07-11 23:15:40 -- server9.c(300):write_hook_v1]:open file failed
+[2011-07-11 23:15:40 -- server9.c(297):write_hook_v1]:try to open file:1.txt
+
+[2011-07-11 23:15:40 -- server9.c(300):write_hook_v1]:open file failed
+Thank you for using ZSL_LIB_LOG.
+ZSL_LIB_LOG inited!
+
+
+[2011-07-11 23:19:58 -- server9.c(162):create_accept_fd]:accept a connection 6
+[2011-07-11 23:19:58 -- server9.c(279):read_hook_v2]:read from socket 6 data:1:/root/code/net/tcpip/server/highserver2/server9/1.txt
+
+[2011-07-11 23:19:58 -- server9.c(283):read_hook_v2]:recv_num=57,&in_buf[recv_num-2]=
+
+[2011-07-11 23:19:58 -- server9.c(279):read_hook_v2]:read from socket 6 data:
+
+[2011-07-11 23:19:58 -- server9.c(283):read_hook_v2]:recv_num=2,&in_buf[recv_num-2]=
+
+[2011-07-11 23:19:58 -- server9.c(286):read_hook_v2]:if anyone here????
+[2011-07-11 23:19:58 -- server9.c(195):parse_request]:before split the ev->request is:1:/root/code/net/tcpip/server/highserver2/server9/1.txt
+
+[2011-07-11 23:19:58 -- server9.c(202):parse_request]:ev->handle_method is:1
+[2011-07-11 23:19:58 -- server9.c(205):parse_request]:ev->request is:/root/code/net/tcpip/server/highserver2/server9/1.txt
+
+[2011-07-11 23:19:58 -- server9.c(297):write_hook_v1]:try to open file:/root/code/net/tcpip/server/highserver2/server9/1.txt
+
+[2011-07-11 23:19:58 -- server9.c(300):write_hook_v1]:open file failed
+[2011-07-11 23:21:12 -- server9.c(297):write_hook_v1]:try to open file:/root/code/net/tcpip/server/highserver2/server9/1.txt
+
+[2011-07-11 23:21:12 -- server9.c(300):write_hook_v1]:open file failed

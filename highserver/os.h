@@ -1,0 +1,7 @@
+#if defined(_WIN32) || defined(WIN32) || defined(__CYGWIN__) || defined(__MINGW32__) || defined(__BORLANDC__)
+#define OS_WINDOWS
+#endif
+
+#if defined (__linux__)||defined(__EMX__) || defined(_OS2) || defined(OS2) || defined(_OS2_) || defined(__OS2__) ||defined(__unix)
+#define OS_UNIX
+#endif
